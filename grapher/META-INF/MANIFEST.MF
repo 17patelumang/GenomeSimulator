@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Grapher
+Bundle-SymbolicName: grapher; singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: grapher.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.gef;bundle-version="3.9.0",
+ org.eclipse.zest.core;bundle-version="1.5.0",
+ org.eclipse.zest.layouts;bundle-version="1.1.0",
+ org.eclipse.core.resources
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ClassPath: .
+Export-Package: com.core,
+ com.grapher,
+ com.grapher.actions,
+ com.grapher.processor,
+ com.grapher.ui,
+ com.util,
+ grapher
