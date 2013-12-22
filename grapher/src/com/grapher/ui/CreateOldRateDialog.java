@@ -1,5 +1,9 @@
 package com.grapher.ui;
 
+/**
+ * @author Umang Patel<ujp2001@columbia.edu>
+ */
+
 import org.eclipse.jface.dialogs.IMessageProvider;
 import org.eclipse.jface.dialogs.TitleAreaDialog;
 import org.eclipse.swt.SWT;

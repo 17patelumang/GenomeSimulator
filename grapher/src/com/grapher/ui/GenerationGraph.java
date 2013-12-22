@@ -1,5 +1,10 @@
 package com.grapher.ui;
 
+
+/**
+ * @author Umang Patel<ujp2001@columbia.edu>
+ */
+
 import java.util.HashMap;
 
 import org.eclipse.swt.widgets.Composite;

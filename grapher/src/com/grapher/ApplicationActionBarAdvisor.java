@@ -27,6 +27,10 @@ import com.grapher.ui.NewRateDialog;
  * the actions added to a workbench window. Each window will be populated with
  * new actions.
  */
+
+/**
+ * @author Umang Patel<ujp2001@columbia.edu>
+ */
 public class ApplicationActionBarAdvisor extends ActionBarAdvisor {
 
 	// Actions - important to allocate these only in makeActions, and then use

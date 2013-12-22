@@ -1,5 +1,9 @@
 package com.grapher.actions;
 
+
+/**
+ * @author Umang Patel<ujp2001@columbia.edu>
+ */
 import org.eclipse.jface.action.Action;
 import org.eclipse.jface.window.Window;
 import org.eclipse.ui.IWorkbenchWindow;

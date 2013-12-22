@@ -1,5 +1,8 @@
 package com.core;
 
+/**
+ * @author Umang Patel<ujp2001@columbia.edu>
+ */
 import org.osgi.service.log.LogEntry;
 import org.osgi.service.log.LogListener;
 

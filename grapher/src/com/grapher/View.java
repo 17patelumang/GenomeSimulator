@@ -1,5 +1,10 @@
 package com.grapher;
 
+/**
+ * @author Umang Patel<ujp2001@columbia.edu>
+ */
+
+
 import java.awt.Color;
 import java.awt.TextArea;
 import java.io.BufferedInputStream;

@@ -1,5 +1,10 @@
 package com.grapher;
 
+/**
+ * @author Umang Patel<ujp2001@columbia.edu>
+ */
+
+
 import org.eclipse.ui.IPageLayout;
 import org.eclipse.ui.IPerspectiveFactory;
 

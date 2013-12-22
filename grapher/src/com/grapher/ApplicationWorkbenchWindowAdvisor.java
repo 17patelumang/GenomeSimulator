@@ -1,5 +1,9 @@
 package com.grapher;
 
+/**
+ * @author Umang Patel<ujp2001@columbia.edu>
+ */
+
 import org.eclipse.swt.graphics.Point;
 import org.eclipse.ui.application.ActionBarAdvisor;
 import org.eclipse.ui.application.IActionBarConfigurer;

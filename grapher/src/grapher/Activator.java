@@ -1,5 +1,10 @@
 package grapher;
 
+/**
+ * @author Umang Patel<ujp2001@columbia.edu>
+ */
+
+
 import org.eclipse.jface.resource.ImageDescriptor;
 import org.eclipse.ui.plugin.AbstractUIPlugin;
 import org.osgi.framework.BundleContext;
