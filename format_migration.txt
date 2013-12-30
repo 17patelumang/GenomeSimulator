@@ -1,0 +1,14 @@
+g1=gen(100,2);
+
+n1=node(g1);
+N0b=node(G0);
+n2=node(g1);
+N0=node(G0);
+gnode=node(Ginf);
+
+e1=edge(n1,gnode,size(30));
+e2=edge(n2,gnode,size(40));
+e0=edge(N0,n2,size(30),size(40));
+e0b=edge(N0b,n1,size(60),size(70));
+rate1=rate(0.0010,1);
+migration(e0b,e0,rate1);
