@@ -22,7 +22,7 @@ public class NewGraphAction extends Action {
     }
     
     public void run() {
-//    	Nasty code .. will change when I understand eclipse plugins
+
     	View v = GenerationGraph.getInstance().getMainView();
     	v.newGraph();
     }
