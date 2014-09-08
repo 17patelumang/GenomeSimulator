@@ -20,7 +20,7 @@ import java.util.Collections;
 import java.util.HashMap;
 
 import org.eclipse.jface.window.Window;
-import org.eclipse.osgi.framework.internal.core.ConsoleManager;
+//import org.eclipse.osgi.framework.internal.core.ConsoleManager;
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.widgets.Composite;
 import org.eclipse.swt.widgets.Text;
