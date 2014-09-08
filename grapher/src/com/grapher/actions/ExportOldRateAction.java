@@ -28,7 +28,7 @@ public class ExportOldRateAction extends Action {
     }
     
     public void run() {
-//    	Nasty code .. will change when I understand eclipse plugins
+
     	try{
         	FileDialog dialog =  new FileDialog(GenerationGraph.getInstance().getMainView().getSite().getWorkbenchWindow().getShell(), SWT.SAVE);
         	String fileName = dialog.open();    		
