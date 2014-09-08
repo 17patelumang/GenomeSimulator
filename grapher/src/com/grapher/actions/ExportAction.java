@@ -26,7 +26,7 @@ public class ExportAction extends Action {
     }
     
     public void run() {
-//    	Nasty code .. will change when I understand eclipse plugins
+
     	View v = GenerationGraph.getInstance().getMainView();
     	try{
         	FileDialog dialog =  new FileDialog(GenerationGraph.getInstance().getMainView().getSite().getWorkbenchWindow().getShell(), SWT.SAVE);
