@@ -21,7 +21,7 @@ public class CreateOldRateAction extends Action {
     }
     
     public void run() {
-//    	Nasty code .. will change when I understand eclipse plugins
+
     	
     	CreateOldRateDialog dialog = new CreateOldRateDialog(GenerationGraph.getInstance().getMainView().getSite().getWorkbenchWindow().getShell());
     	dialog.create();
