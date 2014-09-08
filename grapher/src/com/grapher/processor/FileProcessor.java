@@ -31,8 +31,8 @@ public class FileProcessor {
 		}
 	}
 	public static void main (String[] args){
-		FileProcessor fp = new FileProcessor();
-		RealFinalDemographicLanguage rf = fp.process("/Users/arvindnaidu/jws/realfinaldemographiclanguage/src/admixture.txt");
-		System.out.println("asdfasdf");
+	//	FileProcessor fp = new FileProcessor();
+	//	RealFinalDemographicLanguage rf = fp.process("realfinaldemographiclanguage/src/admixture.txt");
+	//	System.out.println("asdfasdf");
 	}
 }
